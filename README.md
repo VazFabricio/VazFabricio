@@ -1,7 +1,7 @@
 # Fabricio_Vaz
 
 ### hi 👋
-I'm currently majoring in computer science, I'm interested in cybersecurity and backend, and I'm open to the opportunity to intern in the IT field.
+I'm currently majoring in computer science, I'm interested in cybersecurity and backend, and I'm open for IT **internships**.
 - 🔭 I’m currently studying Java (developing codes focused on language fundamentals and in the OOP paradigm).
 - 🌱 I’m currently I'm taking a mySQL course.
 
