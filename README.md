@@ -23,9 +23,10 @@ I'm currently majoring in computer science, I'm interested in cybersecurity and 
 <div>
 <p align="left">
   <a href="https://github.com/VazFabricio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VazFabricio&layout=compact&langs_count=8&exclude_langs=Cmake,Nix&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VazFabricio&layout=compact&exclude_langs=cmake,nix&include_langs=cpp,python,html,css,javascrip,java&theme=algolia"/>
   </a>
 </p>
+
 </div>
 
 ##
