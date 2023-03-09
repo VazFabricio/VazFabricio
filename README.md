@@ -18,4 +18,12 @@ I'm currently majoring in computer science, I'm interested in cybersecurity and 
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
+<div>
+<p align="left">
+  <a href="https://github.com/VazFabricio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VazFabricio&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+</div>
+
 ##
