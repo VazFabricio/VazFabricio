@@ -2,7 +2,7 @@
 
 ### hi 👋
 I'm currently majoring in computer science, I'm interested in backend, data science and ML.
-- 🔭 I’m currently studying C#, Python and data science.
+- 🔭 I’m currently studying Python and data science.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabr%C3%ADcio-vaz-173010174/)
 
